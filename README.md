@@ -1,2 +1,0 @@
-# Gitapp
-for node app
